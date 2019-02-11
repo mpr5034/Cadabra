@@ -1,0 +1,1 @@
+[02-Dec-2018 10:34:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home4/mreale/public_html/app/Models/User.php on line 68
